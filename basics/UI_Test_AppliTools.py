@@ -6,7 +6,7 @@ class Helloworld:
     eyes = Eyes()
 
     # Initialize the eyes SDK and set your private API key.
-    eyes.api_key = 'o9Wh697wu8a6SWajUZhqtEr2e9Ai3HxRoQngmuVODC8110'
+    eyes.api_key = 'your_api_key'
 
     try:
 
